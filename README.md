@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=abc0922001&hide_border=true">](#)
+
 <!--
 **abc0922001/abc0922001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
